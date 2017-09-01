@@ -1,0 +1,6 @@
+G:\YQ\MergeCSV\MergeCSV\bin\Debug\MergeCSV.exe.config
+G:\YQ\MergeCSV\MergeCSV\obj\Debug\MergeCSV.csprojResolveAssemblyReference.cache
+G:\YQ\MergeCSV\MergeCSV\bin\Debug\MergeCSV.exe
+G:\YQ\MergeCSV\MergeCSV\bin\Debug\MergeCSV.pdb
+G:\YQ\MergeCSV\MergeCSV\obj\Debug\MergeCSV.exe
+G:\YQ\MergeCSV\MergeCSV\obj\Debug\MergeCSV.pdb
